@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gustavo
 
-💻 **Backend Student (Java & Spring Boot)**  
+💻 **Backend Student (Java & Spring Ecosystem)**  
 🇧🇷 Based in Brazil
 
 I build **backend APIs**, **scalable systems**, and **clean architectures**.
