@@ -1,13 +1,13 @@
 # Hi 👋, I'm Gustavo
 
-💻 **Backend Student (Java & Spring Ecosystem)**  
+💻 **Full Stack Developer (.NET)**  
 🇧🇷 Based in Brazil
 
-I build **backend APIs**, **scalable systems**, and **clean architectures**.
+I design and build **scalable backend APIs**, **robust systems**, and **maintainable software architectures**.
 
-I'm focused on **Java, Spring Boot, REST APIs, and backend architecture**.
+I work with **C#, .NET, Angular, and TypeScript**, applying **clean architecture**, **SOLID principles**, and **best practices in software engineering**.
 
-I enjoy building projects to practice **real-world backend design and business logic implementation**.
+My focus is on delivering **high-quality solutions**, **well-structured code**, and **efficient business logic implementation**.
 
 ---
 
@@ -26,14 +26,14 @@ I enjoy building projects to practice **real-world backend design and business l
 
 ## 🧠 What I do
 
-- ☕ Backend development with Java
-- 🌱 Building applications with the Spring Ecosystem
-- 🔗 Designing and developing RESTful APIs
-- 🗄️ Data persistence with relational databases
-- 🐳 Containerizing backend services with Docker
-- 🧩 Applying clean architecture and layered design
-- 📚 Information Systems student at UNILAGO
-- 🚀 Building backend projects focused on real-world business logic
+- 💻 Backend development with **C# and .NET**
+- 🌐 Building modern applications with **Angular and TypeScript**
+- 🔗 Designing and developing **RESTful APIs**
+- 🗄️ Data persistence with **relational databases (SQL Server)**
+- 🐳 Containerizing applications with **Docker**
+- 🧩 Applying **Clean Architecture**, **SOLID principles**, and **layered design**
+- ⚙️ Following **best practices in the .NET ecosystem** (dependency injection, middleware, etc.)
+- 🚀 Developing scalable solutions focused on **real-world business logic**
 
 ---
 
