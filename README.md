@@ -3,13 +3,14 @@
 **Full Stack Developer | C# .NET & Angular**
 
 - ⚙️ Focused on C#, .NET, Angular, TypeScript, and SQL Server
+- 🤖 AI enthusiast, using AI daily and building agents to automate tasks and improve workflows
 - 🇧🇷 Brazil | 🇬🇧 English: Upper-Intermediate
 
 ## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,docker" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ## Connect with me
