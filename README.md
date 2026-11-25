@@ -2,14 +2,14 @@
 
 **Full Stack Developer | C# .NET & Angular**
 
-- 💻 Mid-Level Full Stack Developer
 - ⚙️ Focused on C#, .NET, Angular, TypeScript, and SQL Server
-- 🇧🇷 Brazil | 🇬🇧 English support
+- 🇧🇷 Brazil | 🇬🇧 English: Upper-Intermediate
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,sqlserver,docker" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,docker" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ## Connect with me
